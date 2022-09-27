@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	color: #858585;
+}
+h2 {
+	color: #8D8D8D;
+	position: relative;
+	bottom: 665px;
+	left: 183px;
+}
+h3 {
+	color: #B5B5B5;
+	position: relative;
+	left: 500px;
+	bottom: 760px;
+}
+h4 {
+	color: #BDBDBD;
+	position: relative;
+	left: 620px;
+	bottom: 840px;
+}
+body {
+	background-color: #F2F2F2;
+}
+.dot {
+  height: 125px;
+  width: 125px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  right: 550px;
+  bottom: 225px;
+}
+.rectangle {
+	height: 170px;
+	width: 8px;
+	background-color: #bbb;
+	position: relative;
+	bottom: 150px;
+	left: 460px;
+
+}
